@@ -43,15 +43,14 @@
                 Toast.makeText(MainActivity.this, "双击", Toast.LENGTH_SHORT).show();
             }
         });
-## maven使用
-   ### Step 1. Add the JitPack repository to your build file
-		<repositories>
-			<repository>
-			    <id>jitpack.io</id>
-			    <url>https://jitpack.io</url>
-			</repository>
-		</repositories>Copy
-   ### Step 2. Add the dependency
+ ## Step 1. Add the JitPack repository to your build file
+	 <repositories>
+		<repository>
+			 <id>jitpack.io</id>
+			  <url>https://jitpack.io</url>
+		</repository>
+	</repositories>Copy
+ ## Step 2. Add the dependency
 		<dependency>
 		    <groupId>com.github.Simonhy</groupId>
 		    <artifactId>PagerTopTabIndicatorAdd</artifactId>
