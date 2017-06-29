@@ -13,7 +13,7 @@
  Step 2. Add the dependency
 ## 
 	dependencies {
-	        compile 'com.github.Simonhy:PagerTopTabIndicatorAdd:v1.0'
+	         compile 'com.github.Simonhy:PagerTopTabIndicatorAdd:Addv1.1'
 	}
 ## 代码中使用 与上一篇的PagerTopTabIndicator一致,不做累述
    只是添加了动画 修改了部分源码
